@@ -1,0 +1,14 @@
+{
+	"index.html": {
+		"resources": [
+			"audio/ios-birds.mp4",
+			"js/mui.min.js",
+			"css/mui.min.css",
+			"audio/birds.mp4",
+			"js/jQuery-1.12.3.js",
+			"img/head.jpg",
+			"js/index.js",
+			"audio/fire.mp4"
+		]
+	}
+}
